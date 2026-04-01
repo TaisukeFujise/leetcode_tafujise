@@ -25,3 +25,11 @@
 - Step3
   - 全部消して時間を測りながら書くを10分以内に3回連続できるようにする
   - レビュー依頼＋レビューを元に修正
+
+
+めも
+- https://neetcode.io/courses/dsa-for-beginners/0
+- https://google.github.io/eng-practices/review/reviewer/standard.html
+- https://www.morling.dev/blog/the-code-review-pyramid/
+- https://blog.pco2699.net/entry/2024/01/30/070011#%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A1%E3%83%A9%E3%83%AB
+- https://github.com/systemdesignfightclub/SDFC
