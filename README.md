@@ -27,7 +27,7 @@
   - レビュー依頼＋レビューを元に修正
 
 
-めも
+## めも
 - https://neetcode.io/courses/dsa-for-beginners/0
 - https://google.github.io/eng-practices/review/reviewer/standard.html
 - https://www.morling.dev/blog/the-code-review-pyramid/
