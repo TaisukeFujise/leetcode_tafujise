@@ -26,6 +26,8 @@
   - 全部消して時間を測りながら書くを10分以内に3回連続できるようにする
   - レビュー依頼＋レビューを元に修正
 
+## 進捗
+- https://docs.google.com/spreadsheets/d/1Oa75nI_Ahv0ny9MotfTBc_cqPAf7NmDF1q7GqG85UwA/edit?gid=0#gid=0
 
 ## めも
 - https://google.github.io/styleguide/cppguide.html
