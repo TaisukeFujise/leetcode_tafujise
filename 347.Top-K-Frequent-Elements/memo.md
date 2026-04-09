@@ -38,7 +38,7 @@ public:
             num_map.erase(max_pair.first);
             k--;
         }
-        return (result);
+        return result;
     }
 };
 ```
@@ -114,7 +114,7 @@ public:
 			freq_to_num.pop();
 			k--;
 		}
-		return (result);
+		return result;
     }
 };
 ```
